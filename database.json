@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "whatsappNumber": "083137225821",
+      "password": "zerox"
+    },
+    {
+      "whatsappNumber": "923310233388",
+      "password": "new"
+    },
+    {
+      "whatsappNumber": "081232992106",
+      "password": "exel"
+    },
+    {
+      "whatsappNumber": "085363394500",
+      "password": "kepin"
+    }
+  ],
+  "approvedUsers": [
+    {
+      "whatsappNumber": "083137225821",
+      "token": "zerox112"
+    },
+    {
+      "whatsappNumber": "923310233388",
+      "token": "new1.4"
+    },
+    {
+      "whatsappNumber": "081232992106",
+      "token": "exel121"
+    },
+    {
+      "whatsappNumber": "085363394500",
+      "token": "kepinjelek"
+    }
+  ]
+}
